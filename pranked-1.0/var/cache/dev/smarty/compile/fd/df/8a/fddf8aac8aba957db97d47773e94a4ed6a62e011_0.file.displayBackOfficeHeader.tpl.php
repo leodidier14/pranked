@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-07 18:54:36
+/* Smarty version 3.1.34-dev-7, created on 2020-12-07 19:51:47
   from 'D:\wamp64\www\pranked-shop\pranked-1.0\modules\ps_faviconnotificationbo\views\templates\hook\displayBackOfficeHeader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fce6c5c5f10c1_39841301',
+  'unifunc' => 'content_5fce79c3ee52c5_53993215',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fce6c5c5f10c1_39841301 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fce79c3ee52c5_53993215 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
   if (undefined !== ps_faviconnotificationbo) {
