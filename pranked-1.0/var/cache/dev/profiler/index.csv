@@ -21,3 +21,7 @@ e2424c,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.p
 9adbfe,::1,GET,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/?controller=AdminGamification&token=372c77b60f94ef30732ea516c2621ec2,1607363677,,200
 b10ad1,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/?controller=AdminGamification&token=372c77b60f94ef30732ea516c2621ec2,1607363677,,500
 14e17d,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/common/notifications?_token=H1ivFbRiC2iLlPmsGjFmh22VBGFT1-6qGuQ16gt5DVU&rand=1607363675936,1607363678,,200
+7e405d,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/common/notifications?_token=H1ivFbRiC2iLlPmsGjFmh22VBGFT1-6qGuQ16gt5DVU&rand=1607363796457,1607363798,,200
+39e8c8,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/common/notifications?_token=H1ivFbRiC2iLlPmsGjFmh22VBGFT1-6qGuQ16gt5DVU&rand=1607363798202,1607363798,,200
+9cba1f,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/common/notifications?_token=H1ivFbRiC2iLlPmsGjFmh22VBGFT1-6qGuQ16gt5DVU&rand=1607363918916,1607363919,,200
+5c6b1c,::1,POST,http://localhost/pranked-shop/pranked-1.0/admin547itnku5/index.php/common/notifications?_token=H1ivFbRiC2iLlPmsGjFmh22VBGFT1-6qGuQ16gt5DVU&rand=1607363918915,1607363919,,200
